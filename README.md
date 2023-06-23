@@ -6,10 +6,9 @@
 
 
 🌱 Doing
-- Next.js, Spring boot
-  
-💙 Goal
+- 💙 Next.js, Spring boot
 - 🚀 MLOps
+
 
 🎓 License 🎓
 - [한국데이터산업진흥원] 빅데이터 분석기사
