@@ -1,6 +1,7 @@
 # Learning-by-doing🌱
 
 🤔 ML Engineer (Internship) at @ThgIMC (September 2020 ~ 2021)
+
 💻 Software Engineer (Full-time) at @LOTTE DATA COMMUNICATION COMPANY (July 2021 ~)
 
 
