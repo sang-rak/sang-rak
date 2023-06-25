@@ -17,6 +17,3 @@
 - ~~[AWS Certified Machine Learning - Specialty]~~
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sang-rak&langs_count=8)](https://github.com/sang-rak)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sang-rak)](https://github.com/sang-rak)
-
