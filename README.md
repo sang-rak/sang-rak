@@ -14,6 +14,6 @@
 - [한국데이터산업진흥원] 빅데이터 분석기사
 - [한국데이터산업진흥원] SQLD
 - [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/6b496926-e921-487b-b716-fe992cae0467/public_url)
-- ~~[AWS Certified Machine Learning - Specialty]~~
+- [AWS Certified Machine Learning - Specialty](https://www.credly.com/badges/09cf9e56-d393-4429-827f-61536474383b/public_url)
 
 
